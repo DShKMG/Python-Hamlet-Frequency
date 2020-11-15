@@ -1,6 +1,7 @@
 # Python-Hamlet-Frequency
 Python code for finding the words frequency for the hamlet. This task aims for Linguistical analysis of Hamlet
-URL Adddress :  > http://www.cs.utsa.edu/~bylander/cs1063/hamlet.txt
+URL Adddress : 
+> http://www.cs.utsa.edu/~bylander/cs1063/hamlet.txt
 ## Task aims
     1 - Parse the hamlet book from given URL address
     2 - Get the words and their frequency saved in a Dictonary
